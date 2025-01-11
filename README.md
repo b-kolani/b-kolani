@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+✨ Welcome to my GitHub profile ✨  
+
+- 🔭 I’m currently working on development with the C programming language.  
+- 🌱 I have experience in web and mobile development (JavaScript, HTML, CSS).  
+- 🚀 My next goal is to master C++ after improving my C skills.  
+- 👯 I’m open to collaborating on software development or learning projects.  
+- 💬 Ask me about web or mobile development, or my learning journey.  
+- 📫 How to reach me: [biman.kolani97@gmail.com].  
+- ⚡ Fun fact: I’m always curious to explore new technologies and take on challenges! 
